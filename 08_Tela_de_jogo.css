@@ -1,0 +1,115 @@
+body{
+  margin:0;
+  padding:0;
+  text-align:center;
+  background-color:#f9f9f9;
+}
+.header{
+  text-align: center;
+  margin-top:1.5rem;
+  margin-bottom:1.5rem;
+}
+
+.header img{
+  width:5.2rem;
+  padding:0;
+  margin:0;
+}
+
+#fase{
+  margin-top:1rem;
+  margin-bottom:1rem;
+  text-align:center;
+  font-family: "Nunito";
+  font-size:1rem;
+  font-weight:700;
+}
+
+#jogador {
+  margin-top:1rem;
+  margin-bottom:1rem;
+  text-align:center;
+  font-family: "Nunito";
+  font-size:1rem;
+  font-weight:700;
+
+}
+ul{
+  margin:0 !important;
+  padding:0 !important;
+}
+
+#vidas{
+}
+
+.hearts li{
+   display: inline-block;
+}
+
+p{
+  font-family:"Nunito";
+ 
+}
+
+.cores_box li a{
+  text-decoration:none;
+  color:rgba(0,0,0,0);
+  font-family: "Nunito";
+  font-size:5rem;
+  font-weight:800;
+}
+
+.vermelho{
+   background-color: #FF5165;
+  display: inline-block;
+  width:7.5rem;
+  height:7.5rem;
+  text-align:center;
+  border:none;
+  border-radius:1rem;
+  padding:0;
+  margin:0.3rem;
+}
+.verde{
+   background-color: #5FE8B9;
+  display: inline-block;
+  width:7.5rem;
+  height:7.5rem;
+  text-align:center;
+  border:none;
+  border-radius:1rem;
+  padding:0;
+  margin:0.3rem;
+}.amarelo{
+   background-color: #FFF64D;
+  display: inline-block;
+  width:7.5rem;
+  height:7.5rem;
+  text-align:center;
+  border:none;
+  border-radius:1rem;
+  padding:0;
+  margin:0.3rem;
+}.azul{
+  background-color: #57B8FF;
+  display: inline-block;
+  width:7.5rem;
+  height:7.5rem;
+  text-align:center;
+  border:none;
+  border-radius:1rem;
+  padding:0;
+  margin:0.3rem;
+}
+.opcoes li{
+  display:inline-block;
+}
+.opcoes li img{
+  margin:3rem;
+  width:2.5rem;
+}
+
+.li pausa{
+  margin-left:3rem;
+  width:2.5rem;
+}

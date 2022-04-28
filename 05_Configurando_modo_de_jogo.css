@@ -1,0 +1,171 @@
+body{
+  margin:0;
+  padding:0;
+  text-align:center;
+  background-color:#f9f9f9;
+}
+
+.header-list{
+  text-align: center;
+ }
+.header-list li{
+  display: inline-block;
+  margin-top:1.5rem;
+}
+.back img{
+  width:0.8rem;
+}
+.logo img{
+  width:5.2rem;
+  padding-right:4.2rem;
+  padding-left:4.2rem;
+  padding-bottom:0;
+  padding-top:0;
+}
+.tutorial img{
+  width:1.2rem;
+}
+
+h1{
+  font-family: "Nunito";
+  font-size:1.6rem;
+}
+
+h2{
+  font-family: "Nunito";
+  font-size:1.2rem;
+}
+
+ul{
+  margin:0;
+  padding:0;
+}
+
+.numbers_box li{
+  display: inline-block;
+  width:7rem;
+  height:7rem;
+  background-color: #FF5165;
+  text-align:center;
+  border:none;
+  border-radius:1rem;
+  padding:0;
+  margin:0.5rem;
+}
+.numbers_box li a{
+  text-decoration:none;
+  color:#F9F9F9;
+  font-family: "Nunito";
+  font-size:5rem;
+  font-weight:800;
+}
+
+.btn{
+  width:6.5rem;
+  height:2.2rem;
+  border:none;
+  border-radius:50px;
+  background:#8C419C;
+    
+  margin-top:0;
+  padding:0;
+}
+
+.btn a{
+  text-align:center;
+  font-family: "Nunito", sans-serif;
+  font-size:1.1rem;
+  color:#f9f9f9;
+  font-weight:700;
+  text-align: center;
+  text-decoration: none;
+  margin:0;
+}
+
+.btn a: hover{
+  color:#f9f9f9;
+}
+
+.marcadores{
+  margin-top:1rem;
+  padding:0;
+  height: 1rem;
+}
+
+.marcadores li{
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  color: rgba(0, 0, 0, 0);
+  width:0.5rem;
+  height:0.5rem;
+  border-radius:2rem;
+  border:none;
+  
+}
+
+.color{
+  background:#8C419C;
+}
+
+.no-color{
+  background: #c4c4c4
+}
+
+/*
+.selecionado{
+  background-color: #c4c4c4!important;
+  display: inline-block;
+  width:7rem;
+  height:7rem;
+  color:#F9F9F9;
+  font-family: "Nunito";
+  font-size:5rem;
+  font-weight:800;
+  text-align:center;
+  border:none;
+  border-radius:1rem;
+  padding:0;
+  margin:0.5rem;
+}
+--*/
+
+/*- PÁGINA 02--*/
+.modos_box{
+  margin:2.5rem;
+}
+.modos_box li{
+  display: inline-block;
+}
+p{
+  font-family: "Nunito";
+  font-size:1.1rem;
+  font-weight: 700;
+  margin:0;
+  padding:0;
+}
+.modos_box li img{
+  width:11rem;
+  padding:0.5rem;
+}
+/*- PÁGINA 03--*/
+.pulseiras_box{
+  margin:2.5rem;
+}
+.pulseiras_box li{
+  display: inline-block;
+}
+p{
+  font-family: "Nunito";
+  font-size:1.1rem;
+  font-weight: 700;
+  margin:0;
+  padding:0;
+}
+.pulseiras_box li img{
+  width:11rem;
+  padding:0.5rem;
+}
+a{
+  text-decoration:none;
+}

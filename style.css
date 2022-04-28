@@ -1,0 +1,49 @@
+body{
+  background-image: url(https://storage.googleapis.com/replit/images/1649854313807_840fe262dfd9eb63aeaa62400ee68cee.png);
+  background-position: top;
+  background-repeat: no-repeat;
+  text-align:center;
+
+  margin:0;
+  padding:0;
+}
+
+.logotipo{
+  text-align:center;  
+  
+  margin-top:17rem;
+  padding:0;
+}
+
+.logotipo img{
+  width:21rem;
+}
+
+.btn{
+  width:7.5rem;
+  height:2.8rem;
+  border:none;
+  border-radius:50px;
+  background:#FF5165;
+    
+  margin-top:12.5rem;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left:0;
+  padding:0;
+}
+
+.btn a{
+  text-align:center;
+  font-family: "Nunito", sans-serif;
+  font-size:1.4rem;
+  color:#f9f9f9;
+  font-weight:700;
+  text-align: center;
+  text-decoration: none;
+}
+
+.btn a: hover{
+  color:#f9f9f9;
+}
+

@@ -1,0 +1,93 @@
+body{
+  font-family: "Nunito", sans-serif;
+  background: #f9f9f9;
+  text-align:center;
+
+  margin:0;
+  padding:0;
+}
+/*--CABEÇALHO--*/
+.tutorial-list{
+  text-align: center;
+ }
+.tutorial-list li{
+  display: inline-block;
+}
+.seta img{
+  width:0.6rem;
+}
+.text{
+  margin:0;
+  padding-right:6rem;
+  padding-left:6rem;
+
+  font-family: "Nunito";
+  font-size:1rem;
+  font-weight:700;
+}
+/*----------*/
+
+.bloco{
+  margin-top:1.5rem;
+  text-align: center;
+  margin-bottom:1.5rem;
+  font-size:0.92rem;
+}
+
+.image{
+  display: block;
+  width:320px;
+  margin: 0 auto;
+}
+
+.btn{
+  width:6.5rem;
+  height:2.2rem;
+  border:none;
+  border-radius:50px;
+  background:#8C419C;
+    
+  margin:0;
+  padding:0;
+}
+
+.btn a{
+  text-align:center;
+  font-family: "Nunito", sans-serif;
+  font-size:1.1rem;
+  color:#f9f9f9;
+  font-weight:700;
+  text-align: center;
+  text-decoration: none;
+}
+
+.btn a: hover{
+  color:#f9f9f9;
+}
+
+.marcadores{
+  margin-top:1rem;
+  padding:0;
+  height: 1rem;
+}
+
+.marcadores li{
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  color: rgba(0, 0, 0, 0);
+  width:0.5rem;
+  height:0.5rem;
+  border-radius:2rem;
+  border:none;
+  
+}
+.color{
+  background:#8C419C;
+}
+
+.no-color{
+  background: #c4c4c4
+}
+
+
